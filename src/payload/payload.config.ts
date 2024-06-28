@@ -22,7 +22,6 @@ import { Footer } from './globals/Footer'
 import { Header } from './globals/Header'
 import { Settings } from './globals/Settings'
 
-
 dotenv.config({
   path: path.resolve(__dirname, '../../.env'),
 })
